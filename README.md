@@ -1,2 +1,3 @@
 # Javascript-Array-Method-
-I list and explained 24 javascript array method with examples
+I list and explained 24 javascript array method with examples , you can always check the console to tweak the examples....
+inspiration from florin-pop video tutorial 
